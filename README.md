@@ -33,7 +33,7 @@ There are definitely areas of improvement in my code, and I will fix them eventu
 > *"The adventure is only just beginning!"* ✧
 
 - [ ] ✨ Make the inventory look more fancy
-- [ ] 🎁 Multi-Pull
+- [x] 🎁 Multi-Pull
 - [ ] 💎 Pity Counter
 - [ ] 🌸 Revamp the main menu
 - [ ] 🎨 ASCII Art and Animations~
